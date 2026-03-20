@@ -1,2 +1,3 @@
-# advanced-analytics-dashboard-secn
-Analytics dashboard for modern development workflows
+# Advanced Analytics Dashboard Secn
+
+A analytics dashboard for modern development workflows.
